@@ -1,0 +1,5 @@
+P001,Daniel,daniel@hotmail.com,5144158000,1
+P002,Juan,juan@hotmail.com,5147899000,0
+P003,Kevin,kev@yahoo.com,4181005000,1
+P004,Samuel,samuelABC@hotmail.com,5145552033,1
+P005,Andy,andy@mail.ca,9008007000,1

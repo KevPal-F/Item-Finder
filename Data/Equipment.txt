@@ -1,0 +1,5 @@
+E001,Logitech g502,g502,Mouse,1
+E002,Logitech g910,g910,Keyboard,1
+E003,Alienware aw2725qf,aw2725qf,4k dual-resolution monitor IPS,1
+E004,Arctis Nova 7p, Nova 7p, Wireless headphones, 0
+E005,KP IPhone 16,IPhone 16,Current phone,1
